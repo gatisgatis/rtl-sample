@@ -1,2 +1,3 @@
-### Start tests with coverage
-    npm test -- --coverage
+# Simple React for practicing React Testing Library and Jest
+
+npm test -- --coverage
